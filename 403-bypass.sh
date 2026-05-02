@@ -26,7 +26,7 @@ function banner(){
 	echo "💀💀💀💀💀💀💀💀💀"
 	echo -e "💀$green Have a beer🍺💀 $end"
 	echo "💀💀💀💀💀💀💀💀💀"
-	echo -e "     ${cyan}- github.com/riandecrypt : ${end}"
+	echo -e "     ${cyan}- github.com/riandecrypt ${end}"
 }
 function usage(){
         printf "Usage:\n"
